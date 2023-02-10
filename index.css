@@ -1,0 +1,8 @@
+:root {
+  /***primary 主题 配置*/
+  --el-color-primary: #b5d117;
+
+  --el-overlay-color-lighter: rgba(73, 104, 73, 0.3);
+  --el-text-color-regular: #e47908e3;
+  --el-text-color-placeholder: #e71037;
+}
